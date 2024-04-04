@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LV/2SGFHAFUI7XE5XFZXGX1KH.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/Z9/OT5H5EJDRYE34HZ91NC2RZ.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/8K/ZA4807YVP3ZGECZAVSER1D.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/M0/86665PU4E2NDB600WPXFT6.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/N4/OXZBQ6K2SKCRL2E18ZI5ZT.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GI/71M23YQYRC36YBL4VBKS7Y.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/DI/S9PC85AFXVUSCN368J54L8.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/WF/HLNF0EXAPJBLGV2S1F2DLM.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/RT/U5V5FANNNLZ9DDPEEPSUA9.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/YK/KDQCO8HGTPRC3BG13F2C9B.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/54/LK11BKWN5CD5JFZ6ZLCEKB.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/HS/AZX2H9LP1SPK45DWLKOXB7.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3S/A7SXDJO3XKLK6WPFCKUK8Q.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/77/FL7U6YXEZFC0UTGMAI0RIY.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/LK/0T2PEKG1QBRTLN3ZMRMHVD.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/HQ/PQS1WBG99SIGVU7VRZOGU1.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/Levels/MyTestLevel.umap",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/OD/PMIB0W610ACDEVY8HRDHDE.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EL/FQCPBDACY5WMVSB3UC0QLH.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7H/XR122OQVM5PL42B1TNJQGE.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/7J/19SP58JL812MPMA1JWKT0N.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EB/MVXC7TYKH1K161Z5P4K6XF.uasset"
+			]
+		}
+	]
+}
