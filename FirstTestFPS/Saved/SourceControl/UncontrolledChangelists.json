@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Levels/MyTestLevel.umap",
+				"X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
 				"X:/UnrealEngineFolder/UnrealProjects/FirstTestFPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.uasset",
