@@ -1305,3 +1305,102 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-09.09.12:508][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 1.25 sec)
 [2024.04.09-09.09.12:509][ 27]AssetCheck: New page: Asset Save: MyTestLevel
 [2024.04.09-09.09.12:509][ 27]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MyTestLevel.MyTestLevel
+[2024.04.09-09.11.07:022][ 71]LogViewport: Scene viewport resized to 793x845, mode Windowed.
+[2024.04.09-09.11.07:046][ 72]LogViewport: Scene viewport resized to 808x845, mode Windowed.
+[2024.04.09-09.11.07:104][ 73]LogViewport: Scene viewport resized to 874x845, mode Windowed.
+[2024.04.09-09.11.07:169][ 74]LogViewport: Scene viewport resized to 928x845, mode Windowed.
+[2024.04.09-09.11.07:235][ 75]LogViewport: Scene viewport resized to 962x845, mode Windowed.
+[2024.04.09-09.11.07:315][ 76]LogViewport: Scene viewport resized to 986x845, mode Windowed.
+[2024.04.09-09.11.07:373][ 77]LogViewport: Scene viewport resized to 994x845, mode Windowed.
+[2024.04.09-09.11.15:554][528]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.09-09.11.24:804][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-09.11.24:931][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyTestLevel" FILE="../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Levels/MyTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.09-09.11.24:949][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.09-09.11.24:965][ 65]LogSavePackage: Moving output files for package: /Game/Levels/MyTestLevel
+[2024.04.09-09.11.24:965][ 65]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/MyTestLevel915D48CA47CFF42F3A2E3DB770F5C9B5.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Levels/MyTestLevel.umap'
+[2024.04.09-09.11.24:971][ 65]LogFileHelpers: Saving map 'MyTestLevel' took 0.041
+[2024.04.09-09.11.24:980][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 1.43 sec)
+[2024.04.09-09.11.24:982][ 65]AssetCheck: New page: Asset Save: MyTestLevel
+[2024.04.09-09.11.24:982][ 65]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MyTestLevel.MyTestLevel
+[2024.04.09-09.11.30:955][413]AssetReimport: New page: Outstanding source content changes 13.11.30
+[2024.04.09-09.11.30:967][413]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.09-09.11.31:011][414]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Brick/vmdkahflw_2K_Albedo.jpg)
+[2024.04.09-09.11.31:190][414]LogTexture: Display: Building textures: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Albedo.vmdkahflw_2K_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.09-09.11.31:243][415]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Brick/vmdkahflw_2K_AO.jpg)
+[2024.04.09-09.11.31:343][415]LogTexture: Display: Building textures: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_AO.vmdkahflw_2K_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.09-09.11.31:441][416]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Brick/vmdkahflw_2K_Displacement.jpg)
+[2024.04.09-09.11.31:496][416]LogTexture: Display: Building textures: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Displacement.vmdkahflw_2K_Displacement (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.09-09.11.31:584][417]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Brick/vmdkahflw_2K_Normal.jpg)
+[2024.04.09-09.11.31:861][417]LogTexture: Display: Building textures: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Normal.vmdkahflw_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.09-09.11.31:899][418]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Brick/vmdkahflw_2K_Roughness.jpg)
+[2024.04.09-09.11.32:019][418]LogTexture: Display: Building textures: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Roughness.vmdkahflw_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.09-09.11.32:099][419]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Chest/ukqncf3bw_2K_Albedo.jpg)
+[2024.04.09-09.11.32:205][420]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Chest/ukqncf3bw_2K_Displacement.jpg)
+[2024.04.09-09.11.32:303][421]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Chest/ukqncf3bw_2K_Normal_LOD0.jpg)
+[2024.04.09-09.11.32:572][421]LogTexture: Display: Building textures: /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Normal_LOD0.ukqncf3bw_2K_Normal_LOD0 (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.09-09.11.32:612][422]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Chest/ukqncf3bw_2K_Roughness.jpg)
+[2024.04.09-09.11.32:726][422]LogTexture: Display: Building textures: /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Roughness.ukqncf3bw_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.09-09.11.32:827][423]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Chest/ukqncf3bw_LOD0.fbx)
+[2024.04.09-09.11.32:852][423]LogFbx: Loading FBX Scene from X:/UnrealEngineFolder/UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4 Resourcer/Chest/ukqncf3bw_LOD0.fbx
+[2024.04.09-09.11.32:869][423]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.09-09.11.44:699][423]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.09-09.11.45:096][423]LogStaticMesh: Built static mesh [0.22s] /Game/Dag4_Resourcer/Chest/ukqncf3bw_LOD0.ukqncf3bw_LOD0
+[2024.04.09-09.11.45:284][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-09.11.45:454][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Albedo" FILE="../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Albedo.uasset" SILENT=true
+[2024.04.09-09.11.45:461][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Albedo
+[2024.04.09-09.11.45:461][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/vmdkahflw_2K_Albedo88E22806406E2E3E92C27B9025D8C563.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Albedo.uasset'
+[2024.04.09-09.11.45:467][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dag4_Resourcer/Brick/vmdkahflw_2K_AO" FILE="../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_AO.uasset" SILENT=true
+[2024.04.09-09.11.45:469][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_AO
+[2024.04.09-09.11.45:469][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/vmdkahflw_2K_AOB9F133B74DECA71137F4839CC5620924.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_AO.uasset'
+[2024.04.09-09.11.45:475][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Displacement
+[2024.04.09-09.11.45:475][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/vmdkahflw_2K_DisplacementC6936C5E49563621A3905A89380959EE.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Displacement.uasset'
+[2024.04.09-09.11.45:480][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Normal" FILE="../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Normal.uasset" SILENT=true
+[2024.04.09-09.11.45:486][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Normal
+[2024.04.09-09.11.45:486][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/vmdkahflw_2K_NormalAD3483DF45492A49B3D20791EACE8421.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Normal.uasset'
+[2024.04.09-09.11.45:495][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Roughness
+[2024.04.09-09.11.45:495][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/vmdkahflw_2K_Roughness37DE105643F8170182344285D330896A.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Brick/vmdkahflw_2K_Roughness.uasset'
+[2024.04.09-09.11.45:498][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Albedo" FILE="../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Chest/ukqncf3bw_2K_Albedo.uasset" SILENT=true
+[2024.04.09-09.11.45:502][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Albedo
+[2024.04.09-09.11.45:502][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/ukqncf3bw_2K_AlbedoA6812D2E4E4393CB31D129AA20794B17.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Chest/ukqncf3bw_2K_Albedo.uasset'
+[2024.04.09-09.11.45:510][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Displacement
+[2024.04.09-09.11.45:510][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/ukqncf3bw_2K_Displacement8270E14C49560F0FCCBFA4B8867EAEDB.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Chest/ukqncf3bw_2K_Displacement.uasset'
+[2024.04.09-09.11.45:518][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Normal_LOD0
+[2024.04.09-09.11.45:518][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/ukqncf3bw_2K_Normal_LOD06903F30E472ECD092D6449A5B54119C7.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Chest/ukqncf3bw_2K_Normal_LOD0.uasset'
+[2024.04.09-09.11.45:525][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Roughness
+[2024.04.09-09.11.45:525][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/ukqncf3bw_2K_RoughnessEB8F986545526DA5DB41A980644FA12D.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Chest/ukqncf3bw_2K_Roughness.uasset'
+[2024.04.09-09.11.45:630][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dag4_Resourcer/Chest/ukqncf3bw_LOD0" FILE="../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Chest/ukqncf3bw_LOD0.uasset" SILENT=true
+[2024.04.09-09.11.45:653][424]LogSavePackage: Moving output files for package: /Game/Dag4_Resourcer/Chest/ukqncf3bw_LOD0
+[2024.04.09-09.11.45:653][424]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/ukqncf3bw_LOD0650409404FB2333525171199988A164E.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Dag4_Resourcer/Chest/ukqncf3bw_LOD0.uasset'
+[2024.04.09-09.11.45:664][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 380 ms (total: 1.81 sec)
+[2024.04.09-09.11.45:691][425]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Albedo.vmdkahflw_2K_Albedo
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_AO.vmdkahflw_2K_AO
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Displacement.vmdkahflw_2K_Displacement
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Normal.vmdkahflw_2K_Normal
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Roughness.vmdkahflw_2K_Roughness
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Albedo.ukqncf3bw_2K_Albedo
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Displacement.ukqncf3bw_2K_Displacement
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Normal_LOD0.ukqncf3bw_2K_Normal_LOD0
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Roughness.ukqncf3bw_2K_Roughness
+[2024.04.09-09.11.45:691][425]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Dag4_Resourcer/Chest/ukqncf3bw_LOD0.ukqncf3bw_LOD0
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Albedo.
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_AO.
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Displacement.
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Normal.
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Brick/vmdkahflw_2K_Roughness.
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Albedo.
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Displacement.
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Normal_LOD0.
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Chest/ukqncf3bw_2K_Roughness.
+[2024.04.09-09.11.48:672][588]AssetReimport: Importing new asset /Game/Dag4_Resourcer/Chest/ukqncf3bw_LOD0.
+[2024.04.09-09.12.10:784][861]LogSlate: Window 'Message Log' being destroyed
+[2024.04.09-09.12.10:931][861]LogSlate: Window 'Message Log' being destroyed
+[2024.04.09-09.12.18:252][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-09.12.18:818][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyTestLevel" FILE="../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Levels/MyTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.09-09.12.18:840][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.09-09.12.18:862][949]LogSavePackage: Moving output files for package: /Game/Levels/MyTestLevel
+[2024.04.09-09.12.18:862][949]LogSavePackage: Moving '../../../../UnrealProjects/HouseOne/FirstTestFPS/Saved/MyTestLevel1D339A6240F783D50A8789A4A442BF1D.tmp' to '../../../../UnrealProjects/HouseOne/FirstTestFPS/Content/Levels/MyTestLevel.umap'
+[2024.04.09-09.12.18:871][949]LogFileHelpers: Saving map 'MyTestLevel' took 0.054
+[2024.04.09-09.12.18:880][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 628 ms (total: 2.44 sec)
+[2024.04.09-09.12.18:882][949]AssetCheck: New page: Asset Save: MyTestLevel
+[2024.04.09-09.12.18:882][949]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MyTestLevel.MyTestLevel
